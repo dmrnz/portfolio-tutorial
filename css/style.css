@@ -187,16 +187,14 @@ header {
   z-index: 1000;
 }
 
-.nav-toggle:focus {
-  outline: none;
-}
-
 .nav-open .nav {
   transform: translateX(0);
 }
 
 .nav-open .nav-toggle {
   position: fixed;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 .nav-open .hamburger {
