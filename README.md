@@ -4,7 +4,7 @@
 
 <h2 align="center"><a  href="https://renuo-nego-portfolio-tutorial.netlify.com/">Live Demo</a></h2>
 
-A website template created as a way to practice in HTML/CSS. In this project I used CSS Grid and Flexbox to create a layout and media queries to make site responsive. Also this website has a simple "hamburger" menu, made with simple JavaScript.
+A website template created as a way to practice in HTML/CSS. In this project I used CSS Grid and Flexbox to create a layout and media queries to make site responsive. Also this website has a cool "hamburger" menu, made with simple JavaScript.
 
 <p align="center"><img align="center" src="https://i.imgur.com/FaojE6i.png" width="60%"/></p>
 
